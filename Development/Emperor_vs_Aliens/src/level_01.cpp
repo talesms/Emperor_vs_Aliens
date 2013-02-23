@@ -19,7 +19,6 @@ void Level_01::loadWaves()
 
 void Level_01::loadEnviroment()
 {
-	
 	EnviromentElement	cherryTree1(11,0),
 						cherryTree2(4,4),
 						cherryTree3(14,5);
